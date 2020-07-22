@@ -9,8 +9,14 @@ Learn more at https://preventiv.ml/
 
 Whitepaper coming soon.
 
-Credit the Authors at Sai Gurrapu: github.com/SaiG18 & Qasim Wani: github.com/QasimWani
+Android Version Available [here](https://github.com/RoundPegs9/Preventiv-Android)
+
+<p> Credit the Authors at <a href="https://www.github.com/SaiG18">Sai Gurrapu: github.com/SaiG18 </a> and <a href="https://www.github.com/QasimWani">Qasim Wani: github.com/QasimWani</a></p>
+
 
 To get this project to work, you must add your own Firestore key in the AppDelegate.swift file after cloning the repository.
+
+
+
 
 ![preventiv](https://user-images.githubusercontent.com/9091157/88198702-f7ac5c80-cc11-11ea-84df-508afa8608c5.png)
