@@ -1,5 +1,5 @@
 
-![logoText-4](https://user-images.githubusercontent.com/9091157/88196036-bb2b3180-cc0e-11ea-93f3-fb88f6651fff.png)
+![preventiv logo](https://user-images.githubusercontent.com/9091157/88196036-bb2b3180-cc0e-11ea-93f3-fb88f6651fff.png)
 
 # Preventiv-iOS
 
