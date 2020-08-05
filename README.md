@@ -3,7 +3,7 @@
 
 # Preventiv-iOS
 
-### Robust and resilient contact tracing system with a focus on safety and privacy. This app is one of the first open-source contact tracing apps released.
+### Robust and resilient contact tracing system with a focus on safety and privacy. One of the first open-source contact tracing apps released.
 
 Learn more at https://preventiv.ml/
 
